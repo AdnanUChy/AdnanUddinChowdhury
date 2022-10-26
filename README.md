@@ -36,3 +36,5 @@ Skills: HTML / CSS/JS/Bootstrap/Jquery/ML/Power BI
 ![GitHub metrics](https://metrics.lecoq.io/AdnanUddinChowdhury)  
 
 ![Profile views](https://gpvc.arturio.dev/AdnanUddinChowdhury)  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanuddinchowdhury&" alt="adnanuddinchowdhury" /></p>
