@@ -1,5 +1,5 @@
 ### Hi there, I'm Adnan Uddin Chowdhury 👋
-<h3 align="center">Like to learn new things. Highly interested in AI and Web Development.</h3>
+<h3>Like to learn new things. Highly interested in AI and Web Development.</h3>
 
 
 Here are some ideas to get you started:
