@@ -27,8 +27,6 @@ Skills: HTML / CSS/JS/Bootstrap/Jquery/ML/Power BI
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanUddinChowdhury)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Profile views](https://gpvc.arturio.dev/AdnanUddinChowdhury)  
 
