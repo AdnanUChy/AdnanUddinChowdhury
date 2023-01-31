@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Uddin Chowdhury</h1>
 <h3 align="center">Like to learn new things. Highly interested in AI and Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanuchy&label=Profile%20views&color=0e75b6&style=flat" alt="adnanuchy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanuchy" alt="adnanuchy" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS, MongoDB,ReactJs**
 
@@ -23,5 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanuchy&show_icons=true&locale=en" alt="adnanuchy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanuchy&" alt="adnanuchy" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanuchy&label=Profile%20views&color=0e75b6&style=flat" alt="adnanuchy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanuchy" alt="adnanuchy" /></a> </p>
 
 
